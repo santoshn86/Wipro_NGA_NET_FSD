@@ -1,0 +1,14 @@
+C:\Users\santo\source\repos\Day_10\Day_10\bin\Debug\net10.0\Day_10.exe
+C:\Users\santo\source\repos\Day_10\Day_10\bin\Debug\net10.0\Day_10.deps.json
+C:\Users\santo\source\repos\Day_10\Day_10\bin\Debug\net10.0\Day_10.runtimeconfig.json
+C:\Users\santo\source\repos\Day_10\Day_10\bin\Debug\net10.0\Day_10.dll
+C:\Users\santo\source\repos\Day_10\Day_10\bin\Debug\net10.0\Day_10.pdb
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\Day_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\Day_10.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\Day_10.AssemblyInfo.cs
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\Day_10.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\Day_10.dll
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\refint\Day_10.dll
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\Day_10.pdb
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\Day_10.genruntimeconfig.cache
+C:\Users\santo\source\repos\Day_10\Day_10\obj\Debug\net10.0\ref\Day_10.dll

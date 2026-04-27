@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections;
+using System.Text;
+
+class Program
+{
+    static void Main()
+    {
+        Hashtable users = new Hashtable();
+
+        // Add username & encrypted password
+        users["admin"] = Encrypt("admin123");
+        users["user1"] = Encrypt("password1");
+
+        Console.WriteLine("Stored Encrypted Passwords:");
+        foreach (DictionaryEntry item in users)
+        {
+            Console.WriteLine($"Username: {item.Key}, Password: {item.Value}");
+        }
+
+        // Login check
+        Console.WriteLine("\nEnter Username:");
+        string username = Console.ReadLine();
+
+        Console.WriteLine("Enter Password:");
+        string password = Console.ReadLine();
+
+        if (users.ContainsKey(username))
+        {
+            string storedEncrypted = users[username].ToString();
+            string enteredEncrypted = Encrypt(password);
+
+            if (storedEncrypted == enteredEncrypted)
+                Console.WriteLine("Login Successful ✅");
+            else
+                Console.WriteLine("Invalid Password ❌");
+        }
+        else
+        {
+            Console.WriteLine("User not found ❌");
+        }
+    }
+
+    // Simple "encryption" using Base64 (for demo only)
+    internal static string Encrypt(string text)
+    {
+        byte[] bytes = Encoding.UTF8.GetBytes(text);
+        return Convert.ToBase64String(bytes);
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\bin\Debug\net10.0\ConsoleApp_Day_Five.exe
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\bin\Debug\net10.0\ConsoleApp_Day_Five.deps.json
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\bin\Debug\net10.0\ConsoleApp_Day_Five.runtimeconfig.json
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\bin\Debug\net10.0\ConsoleApp_Day_Five.dll
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\bin\Debug\net10.0\ConsoleApp_Day_Five.pdb
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ConsoleApp_Day_Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ConsoleApp_Day_Five.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ConsoleApp_Day_Five.AssemblyInfo.cs
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ConsoleApp_Day_Five.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ConsoleApp_Day_Five.dll
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\refint\ConsoleApp_Day_Five.dll
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ConsoleApp_Day_Five.pdb
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ConsoleApp_Day_Five.genruntimeconfig.cache
+C:\Users\santo\source\repos\ConsoleApp_Day_Five\ConsoleApp_Day_Five\obj\Debug\net10.0\ref\ConsoleApp_Day_Five.dll

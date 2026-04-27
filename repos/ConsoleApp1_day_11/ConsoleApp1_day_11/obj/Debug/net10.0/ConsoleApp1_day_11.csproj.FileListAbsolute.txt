@@ -1,0 +1,14 @@
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\bin\Debug\net10.0\ConsoleApp1_day_11.exe
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\bin\Debug\net10.0\ConsoleApp1_day_11.deps.json
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\bin\Debug\net10.0\ConsoleApp1_day_11.runtimeconfig.json
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\bin\Debug\net10.0\ConsoleApp1_day_11.dll
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\bin\Debug\net10.0\ConsoleApp1_day_11.pdb
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ConsoleApp1_day_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ConsoleApp1_day_11.AssemblyInfoInputs.cache
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ConsoleApp1_day_11.AssemblyInfo.cs
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ConsoleApp1_day_11.csproj.CoreCompileInputs.cache
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ConsoleApp1_day_11.dll
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\refint\ConsoleApp1_day_11.dll
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ConsoleApp1_day_11.pdb
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ConsoleApp1_day_11.genruntimeconfig.cache
+C:\Users\santo\source\repos\ConsoleApp1_day_11\ConsoleApp1_day_11\obj\Debug\net10.0\ref\ConsoleApp1_day_11.dll
