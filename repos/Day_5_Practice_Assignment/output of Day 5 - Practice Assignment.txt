@@ -1,0 +1,64 @@
+=== Account Creation ===
+Enter Account Holder Name: Santosh
+Enter Initial Balance (>= ₹1000): 2000
+Account Created Successfully
+
+
+=== Banking Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 1
+Enter amount to deposit: 1500
+₹1500 deposited successfully.
+
+=== Banking Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 3
+Current Balance: ₹3500
+
+=== Banking Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 2
+Enter amount to withdraw: 1634
+₹1634 withdrawn successfully.
+
+=== Banking Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 3
+Current Balance: ₹1866
+
+=== Banking Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 1
+Enter amount to deposit: -500
+Invalid Amount Exception: Deposit amount must be greater than zero.
+
+=== Banking Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice: 2
+Enter amount to withdraw: 6000
+Insufficient Balance Exception: Withdrawal amount exceeds current balance.
+
+=== Banking Menu ===
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Exit
+Enter your choice:
